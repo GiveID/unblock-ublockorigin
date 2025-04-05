@@ -1,0 +1,1 @@
+javascript:(function(){const e=(e,t)=>{let o=[];return function e(n){n.shadowRoot&&e(n.shadowRoot),n.matches?.(t)&&o.push(n),Array.from(n.children).forEach(e)}(e),o};(function(){e(document.body,%27button[jsname="wQO0od"][disabled]%27).forEach(e=>{e.removeAttribute("disabled"),e.setAttribute("enabled","")})})();})();
